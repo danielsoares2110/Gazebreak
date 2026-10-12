@@ -2,8 +2,6 @@
 
 A lightweight, native macOS focus timer. Pick a work duration, hide the app, and get a fullscreen nudge to rest your eyes when time is up. Built with AppKit — no dependencies.
 
-![GazeBreak Settings](docs/settings.png)
-
 ## Features
 
 - **Flexible timers** — type any work/rest duration (Seconds or Minutes). Invalid input is rejected with a message, valid choices persist across launches.
@@ -12,7 +10,7 @@ A lightweight, native macOS focus timer. Pick a work duration, hide the app, and
   
 ## Install
 
-Download `GazeBreak.app.zip` from [Releases](../../releases), unzip, move to Applications. On first launch open then click done, go to settings privacy and security and scroll
+Download `GazeBreak.app, move to Applications. On first launch open then click done, go to settings privacy and security and scroll
 down and click open anyway
 
 ## Use
