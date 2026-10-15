@@ -1,9 +1,3 @@
-
-
-https://github.com/user-attachments/assets/d24c60cc-5026-40e6-9410-8fd88fae5d8f
-
-
-
 <img width="1710" height="1112" alt="Screenshot 2026-10-15 at 9 19 32 AM" src="https://github.com/user-attachments/assets/555c6942-73dc-4be6-9cbc-9da277d6886b" />
 # GazeBreak
 
