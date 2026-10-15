@@ -1,6 +1,4 @@
-
-
-
+https://github.com/user-attachments/assets/c1bcc1ab-702e-4376-a81b-91391e8bb858
 # GazeBreak
 
 A lightweight, native macOS focus timer. Pick a work duration, hide the app, and get a fullscreen nudge to rest your eyes when time is up. Built with AppKit — no dependencies.
